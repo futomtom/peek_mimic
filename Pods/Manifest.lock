@@ -1,0 +1,12 @@
+PODS:
+  - MBXPageViewController (1.0.0)
+
+DEPENDENCIES:
+  - MBXPageViewController
+
+SPEC CHECKSUMS:
+  MBXPageViewController: a706073c28deb7b40a0c83269322859a584b9e66
+
+PODFILE CHECKSUM: ccaf505ddfcae5aad89e5b6061fb6acbeb16782f
+
+COCOAPODS: 1.0.0.beta.4
